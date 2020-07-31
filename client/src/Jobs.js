@@ -13,6 +13,7 @@ export default function Jobs({jobs}){
                     job => <Job job={job} />
                 )
             }
+            
         </div>
     )
 }
