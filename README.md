@@ -1,6 +1,8 @@
-# React app
+# JR-DEV
 
+React App to scrape junior developer jobs from GitHub and tabulate them.
 Source: [Video by freeCodeCamp](https://www.youtube.com/watch?v=lauywdXKEXI)
+
 
 ## Dependencies
 1. yarn
